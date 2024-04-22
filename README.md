@@ -72,8 +72,9 @@ record:The Cure,Lovesong
       2. Do not commit compiled files or dependency folders, e.g, `node_modules`.
 3. An `input.txt` file is provided in the repository root directory as the input source for your program. Run your program with this input file. **Do not modify this file** under any circumstances.
 4. The program should save the output to a file called `output.txt` in the directory. **Commit** the `output.txt` file to the repository.
-5. (**Extra Credit**) Include tests for your solution. Save the tests to a `tests` folder in the root of the repository.
-6. Email the link to your repository to your recruiter and the team to the email address provided to you.
+5. **Extra Credit #1** Include tests for your solution. Save the tests to a `tests` folder in the root of the repository.
+6. **Extra Credit #2** Containerize the program. Include a `Dockerfile` in the root of the repository that allows us to execute your program by using the `docker run` command. 
+7. Email the link to your repository to your recruiter and the team to the email address provided to you.
 
 
 The submitted repository should have the following file structure (using python as a source code example):
@@ -85,6 +86,7 @@ The submitted repository should have the following file structure (using python 
 │   ├── main.py
 ├── tests
 │   ├── tests.py #optional
+├── Dockerfile #optional
 ├── output.txt
 ```
 
