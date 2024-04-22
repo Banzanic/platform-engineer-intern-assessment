@@ -1,208 +1,212 @@
-record:Beatles,Hey Jude
-record:Michael Jackson,Smooth Criminal
-record:Taylor Swift,Shake It Off
-record:Eminem,Lose Yourself
-record:Beatles,Hey Jude
-record:Michael Jackson,Smooth Criminal
-record:Taylor Swift,Shake It Off
-record:Michael Jackson,Billie Jean
-record:Michael Jackson,Beat It
-record:Beatles,Hey Jude
-record:Eminem,Without Me
-record:Taylor Swift,Shake It Off
-record:Beatles,Come Together
-record:Taylor Swift,Shake It Off
-record:Michael Jackson,Billie Jean
-record:Beatles,Yesterday
-record:Eminem,Lose Yourself
-record:Taylor Swift,You Belong With Me
-record:Beatles,Yesterday
-record:Beatles,Yesterday
-record:Beatles,Hey Jude
-record:Beatles,Yesterday
-record:Michael Jackson,Thriller
-record:Michael Jackson,Thriller
+record:Simple Plan,Addicted
+record:Simple Plan,Untitled
 record:Taylor Swift,Love Story
-record:Michael Jackson,Billie Jean
-record:Michael Jackson,Beat It
-record:Beatles,Let It Be
-record:Eminem,The Real Slim Shady
-record:Michael Jackson,Beat It
-record:Taylor Swift,Shake It Off
-record:Michael Jackson,Beat It
-record:Eminem,Stan
-record:Beatles,Come Together
-record:Beatles,Hey Jude
-record:Beatles,Let It Be
-record:Beatles,Come Together
+record:Simple Plan,Perfect
+record:Simple Plan,Perfect
 record:Taylor Swift,Love Story
-record:Eminem,Stan
-record:Eminem,Lose Yourself
-record:Michael Jackson,Billie Jean
-record:Eminem,Without Me
-record:Beatles,Let It Be
-record:Taylor Swift,You Belong With Me
-record:Taylor Swift,You Belong With Me
-record:Michael Jackson,Thriller
-record:Michael Jackson,Thriller
-record:Eminem,Without Me
-record:Michael Jackson,Smooth Criminal
-record:Michael Jackson,Thriller
-record:Taylor Swift,Shake It Off
-record:Beatles,Yesterday
-record:Eminem,Lose Yourself
-record:Eminem,Lose Yourself
+record:Amy Winehouse,Back to Black
 record:Taylor Swift,Love Story
-record:Taylor Swift,You Belong With Me
-record:Michael Jackson,Beat It
-record:Beatles,Yesterday
-record:Michael Jackson,Billie Jean
-record:Eminem,Without Me
-record:Michael Jackson,Thriller
-record:Eminem,The Real Slim Shady
-record:Michael Jackson,Billie Jean
-record:Beatles,Let It Be
-record:Michael Jackson,Billie Jean
-record:Beatles,Yesterday
-record:Taylor Swift,Cruel Summer
-record:Michael Jackson,Thriller
-record:Michael Jackson,Thriller
-record:Beatles,Yesterday
-record:Taylor Swift,You Belong With Me
-record:Michael Jackson,Thriller
-record:Michael Jackson,Thriller
-record:Michael Jackson,Thriller
-record:Michael Jackson,Beat It
-record:Michael Jackson,Thriller
-record:Eminem,Without Me
-record:Michael Jackson,Beat It
-record:Taylor Swift,Cruel Summer
-record:Beatles,Yesterday
-record:Beatles,Hey Jude
-record:Taylor Swift,You Belong With Me
-record:Eminem,Stan
-record:Beatles,Yesterday
-record:Taylor Swift,You Belong With Me
-record:Michael Jackson,Billie Jean
-record:Beatles,Come Together
-record:Eminem,Without Me
-record:Eminem,The Real Slim Shady
-record:Michael Jackson,Smooth Criminal
-record:Taylor Swift,Shake It Off
-record:Beatles,Let It Be
-record:Taylor Swift,You Belong With Me
-record:Taylor Swift,You Belong With Me
-record:Michael Jackson,Smooth Criminal
-record:Eminem,Lose Yourself
-record:Taylor Swift,Love Story
-record:Michael Jackson,Thriller
-record:Beatles,Come Together
-record:Beatles,Let It Be
+record:Amy Winehouse,Rehab
 top:Taylor Swift
-top:Beatles
+top:Amy Winehouse
+top:Simple Plan
 top:Michael Jackson
-top:Eminem
-record:Eminem,Lose Yourself
-record:Michael Jackson,Smooth Criminal
-record:Beatles,Come Together
-record:Michael Jackson,Billie Jean
-record:Taylor Swift,You Belong With Me
-record:Beatles,Come Together
-record:Michael Jackson,Smooth Criminal
-record:Taylor Swift,Love Story
-record:Eminem,Stan
-record:Beatles,Let It Be
-record:Eminem,Stan
-record:Taylor Swift,Cruel Summer
-record:Michael Jackson,Thriller
-record:Beatles,Come Together
-record:Eminem,The Real Slim Shady
-record:Beatles,Come Together
-record:Beatles,Let It Be
-record:Michael Jackson,Smooth Criminal
-record:Beatles,Come Together
-record:Michael Jackson,Smooth Criminal
-record:Beatles,Let It Be
-record:Beatles,Let It Be
-record:Taylor Swift,Shake It Off
-record:Beatles,Come Together
-record:Beatles,Yesterday
-record:Michael Jackson,Thriller
-record:Beatles,Let It Be
-record:Eminem,Without Me
-record:Michael Jackson,Smooth Criminal
-record:Michael Jackson,Smooth Criminal
-record:Eminem,The Real Slim Shady
-record:Eminem,Lose Yourself
-record:Taylor Swift,Love Story
-record:Taylor Swift,Cruel Summer
-record:Beatles,Hey Jude
 record:Michael Jackson,Beat It
-record:Beatles,Hey Jude
 record:Michael Jackson,Smooth Criminal
-record:Beatles,Hey Jude
-record:Eminem,Without Me
-record:Beatles,Hey Jude
-record:Beatles,Let It Be
-record:Eminem,Stan
+record:Simple Plan,Welcome to My Life
+record:Amy Winehouse,Rehab
+record:Michael Jackson,Billie Jean
+record:Taylor Swift,Love Story
+record:Michael Jackson,Smooth Criminal
+record:Simple Plan,Untitled
 record:Taylor Swift,You Belong With Me
-record:Eminem,Stan
-record:Eminem,Lose Yourself
-record:Eminem,Stan
-record:Michael Jackson,Smooth Criminal
-record:Michael Jackson,Smooth Criminal
-record:Michael Jackson,Smooth Criminal
-record:Beatles,Hey Jude
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Thriller
+record:Simple Plan,Addicted
+record:Simple Plan,Welcome to My Life
+record:Taylor Swift,Cruel Summer
+record:Simple Plan,Untitled
+record:Michael Jackson,Thriller
 record:Taylor Swift,Shake It Off
-record:Eminem,Lose Yourself
-record:Eminem,The Real Slim Shady
+record:Amy Winehouse,Valerie
 record:Taylor Swift,Shake It Off
-record:Beatles,Let It Be
-record:Michael Jackson,Smooth Criminal
-record:Beatles,Come Together
+record:Michael Jackson,Thriller
+record:Taylor Swift,Cruel Summer
+record:Simple Plan,Untitled
+record:Amy Winehouse,Back to Black
+record:Michael Jackson,Billie Jean
+record:Simple Plan,Welcome to My Life
+record:Amy Winehouse,Addicted
+record:Amy Winehouse,Valerie
+record:Amy Winehouse,Back to Black
+record:Simple Plan,Welcome to My Life
+record:Taylor Swift,Love Story
 record:Taylor Swift,Shake It Off
 record:Michael Jackson,Billie Jean
-record:Beatles,Hey Jude
-record:Eminem,Lose Yourself
+record:Amy Winehouse,Valerie
+record:Taylor Swift,Love Story
+record:Simple Plan,Perfect
+record:Taylor Swift,Love Story
 record:Taylor Swift,You Belong With Me
-record:Beatles,Let It Be
-record:Beatles,Hey Jude
-record:Eminem,Lose Yourself
-record:Michael Jackson,Thriller
+record:Amy Winehouse,Addicted
+record:Simple Plan,Untitled
+record:Michael Jackson,Billie Jean
+record:Amy Winehouse,Rehab
+record:Simple Plan,Perfect
 record:Michael Jackson,Smooth Criminal
-record:Eminem,Stan
-record:Eminem,Lose Yourself
-record:Eminem,Lose Yourself
-record:Michael Jackson,Thriller
-record:Beatles,Yesterday
-record:Eminem,Without Me
+record:Simple Plan,Addicted
+record:Amy Winehouse,Back to Black
+record:Taylor Swift,Love Story
+record:Simple Plan,Welcome to My Life
+record:Simple Plan,Untitled
 record:Taylor Swift,Cruel Summer
+record:Taylor Swift,Cruel Summer
+record:Amy Winehouse,Back to Black
+record:Taylor Swift,Cruel Summer
+record:Taylor Swift,Cruel Summer
+record:Taylor Swift,You Belong With Me
+record:Simple Plan,Untitled
+record:Simple Plan,Untitled
+record:Simple Plan,Perfect
+record:Michael Jackson,Thriller
+record:Simple Plan,Untitled
+record:Simple Plan,Perfect
+record:Simple Plan,Untitled
+record:Amy Winehouse,Rehab
+record:Simple Plan,Perfect
+record:Taylor Swift,You Belong With Me
+record:Amy Winehouse,Addicted
+record:Taylor Swift,You Belong With Me
+record:Simple Plan,Welcome to My Life
+record:Michael Jackson,Smooth Criminal
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Thriller
+record:Simple Plan,Addicted
+record:Amy Winehouse,Valerie
+record:Taylor Swift,You Belong With Me
+record:Simple Plan,Addicted
+record:Amy Winehouse,Addicted
 record:Michael Jackson,Beat It
-record:Beatles,Let It Be
-record:Beatles,Come Together
-record:Eminem,The Real Slim Shady
-record:Taylor Swift,Love Story
 record:Michael Jackson,Billie Jean
-record:Eminem,Lose Yourself
+record:Simple Plan,Addicted
+record:Amy Winehouse,Valerie
+record:Amy Winehouse,Addicted
+record:Amy Winehouse,Rehab
+record:Taylor Swift,Love Story
+record:Simple Plan,Addicted
+record:Simple Plan,Perfect
+record:Taylor Swift,Love Story
 record:Taylor Swift,You Belong With Me
-record:Taylor Swift,Love Story
-record:Beatles,Yesterday
-record:Beatles,Come Together
-record:Eminem,The Real Slim Shady
-record:Michael Jackson,Thriller
-record:Taylor Swift,Cruel Summer
-record:Michael Jackson,Smooth Criminal
-record:Taylor Swift,Love Story
-record:Eminem,Without Me
-record:Beatles,Come Together
-record:Michael Jackson,Thriller
+record:Michael Jackson,Beat It
 record:Taylor Swift,Shake It Off
-record:Eminem,Lose Yourself
-record:Eminem,Without Me
-record:Beatles,Let It Be
-record:Taylor Swift,Shake It Off
-record:Beatles,Come Together
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Thriller
+record:Michael Jackson,Billie Jean
 top:Taylor Swift
-top:Beatles
+top:Amy Winehouse
+top:Simple Plan
 top:Michael Jackson
-top:Eminem
+record:Amy Winehouse,Back to Black
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Beat It
+record:Simple Plan,Addicted
+record:Simple Plan,Perfect
+record:Amy Winehouse,Valerie
+record:Michael Jackson,Thriller
+record:Simple Plan,Welcome to My Life
+record:Michael Jackson,Smooth Criminal
+record:Michael Jackson,Thriller
+record:Amy Winehouse,Valerie
+record:Amy Winehouse,Valerie
+record:Michael Jackson,Billie Jean
+record:Taylor Swift,Love Story
+record:Simple Plan,Welcome to My Life
+record:Taylor Swift,You Belong With Me
+record:Amy Winehouse,Rehab
+record:Michael Jackson,Beat It
+record:Simple Plan,Untitled
+record:Taylor Swift,Love Story
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Billie Jean
+record:Michael Jackson,Beat It
+record:Taylor Swift,Shake It Off
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Thriller
+record:Michael Jackson,Billie Jean
+record:Simple Plan,Untitled
+record:Taylor Swift,You Belong With Me
+record:Taylor Swift,Shake It Off
+record:Simple Plan,Addicted
+record:Taylor Swift,Cruel Summer
+record:Amy Winehouse,Valerie
+record:Taylor Swift,Shake It Off
+record:Simple Plan,Perfect
+record:Amy Winehouse,Valerie
+record:Michael Jackson,Beat It
+record:Amy Winehouse,Addicted
+record:Taylor Swift,Shake It Off
+record:Amy Winehouse,Addicted
+record:Taylor Swift,Shake It Off
+record:Simple Plan,Perfect
+record:Michael Jackson,Smooth Criminal
+record:Amy Winehouse,Addicted
+record:Michael Jackson,Thriller
+record:Taylor Swift,Shake It Off
+record:Taylor Swift,You Belong With Me
+record:Simple Plan,Welcome to My Life
+record:Michael Jackson,Beat It
+record:Amy Winehouse,Rehab
+record:Taylor Swift,You Belong With Me
+record:Amy Winehouse,Rehab
+record:Taylor Swift,Shake It Off
+record:Simple Plan,Untitled
+record:Michael Jackson,Thriller
+record:Amy Winehouse,Rehab
+record:Taylor Swift,Shake It Off
+record:Taylor Swift,Shake It Off
+record:Simple Plan,Untitled
+record:Taylor Swift,Cruel Summer
+record:Simple Plan,Addicted
+record:Simple Plan,Addicted
+record:Simple Plan,Addicted
+record:Simple Plan,Addicted
+record:Taylor Swift,Love Story
+record:Amy Winehouse,Addicted
+record:Simple Plan,Addicted
+record:Taylor Swift,Shake It Off
+record:Taylor Swift,Cruel Summer
+record:Michael Jackson,Billie Jean
+record:Taylor Swift,Shake It Off
+record:Amy Winehouse,Addicted
+record:Amy Winehouse,Back to Black
+record:Simple Plan,Perfect
+record:Amy Winehouse,Valerie
+record:Amy Winehouse,Rehab
+record:Amy Winehouse,Addicted
+record:Amy Winehouse,Addicted
+record:Amy Winehouse,Addicted
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Billie Jean
+record:Amy Winehouse,Valerie
+record:Taylor Swift,Love Story
+record:Michael Jackson,Beat It
+record:Michael Jackson,Billie Jean
+record:Simple Plan,Perfect
+record:Amy Winehouse,Rehab
+record:Simple Plan,Addicted
+record:Michael Jackson,Billie Jean
+record:Michael Jackson,Thriller
+record:Taylor Swift,Shake It Off
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Smooth Criminal
+record:Amy Winehouse,Back to Black
+record:Simple Plan,Untitled
+record:Taylor Swift,You Belong With Me
+record:Simple Plan,Perfect
+record:Taylor Swift,Love Story
+record:Amy Winehouse,Addicted
+record:Amy Winehouse,Back to Black
+top:Taylor Swift
+top:Amy Winehouse
+top:Simple Plan
+top:Michael Jackson
