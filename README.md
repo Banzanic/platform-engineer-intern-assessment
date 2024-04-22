@@ -87,6 +87,6 @@ Your code will be evaluated on the following areas:
 
 - **Correctness**: does the code provide the right answer?
 - **Readability**: how easy is it to understand what the code is doing?
-- **Performance**: is the code using algorithms and data structures that have optimal performance (using [Big-O notation](https://en.wikipedia.org/wiki/Big_O_notation))? 
+- **Performance**: is the code using algorithms and data structures that have optimal performance (as measured using [Big-O notation](https://en.wikipedia.org/wiki/Big_O_notation))? 
 
 
