@@ -1,0 +1,208 @@
+record:Beatles,Hey Jude
+record:Michael Jackson,Smooth Criminal
+record:Taylor Swift,Shake It Off
+record:Eminem,Lose Yourself
+record:Beatles,Hey Jude
+record:Michael Jackson,Smooth Criminal
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Billie Jean
+record:Michael Jackson,Beat It
+record:Beatles,Hey Jude
+record:Eminem,Without Me
+record:Taylor Swift,Shake It Off
+record:Beatles,Come Together
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Billie Jean
+record:Beatles,Yesterday
+record:Eminem,Lose Yourself
+record:Taylor Swift,You Belong With Me
+record:Beatles,Yesterday
+record:Beatles,Yesterday
+record:Beatles,Hey Jude
+record:Beatles,Yesterday
+record:Michael Jackson,Thriller
+record:Michael Jackson,Thriller
+record:Taylor Swift,Love Story
+record:Michael Jackson,Billie Jean
+record:Michael Jackson,Beat It
+record:Beatles,Let It Be
+record:Eminem,The Real Slim Shady
+record:Michael Jackson,Beat It
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Beat It
+record:Eminem,Stan
+record:Beatles,Come Together
+record:Beatles,Hey Jude
+record:Beatles,Let It Be
+record:Beatles,Come Together
+record:Taylor Swift,Love Story
+record:Eminem,Stan
+record:Eminem,Lose Yourself
+record:Michael Jackson,Billie Jean
+record:Eminem,Without Me
+record:Beatles,Let It Be
+record:Taylor Swift,You Belong With Me
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Thriller
+record:Michael Jackson,Thriller
+record:Eminem,Without Me
+record:Michael Jackson,Smooth Criminal
+record:Michael Jackson,Thriller
+record:Taylor Swift,Shake It Off
+record:Beatles,Yesterday
+record:Eminem,Lose Yourself
+record:Eminem,Lose Yourself
+record:Taylor Swift,Love Story
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Beat It
+record:Beatles,Yesterday
+record:Michael Jackson,Billie Jean
+record:Eminem,Without Me
+record:Michael Jackson,Thriller
+record:Eminem,The Real Slim Shady
+record:Michael Jackson,Billie Jean
+record:Beatles,Let It Be
+record:Michael Jackson,Billie Jean
+record:Beatles,Yesterday
+record:Taylor Swift,Cruel Summer
+record:Michael Jackson,Thriller
+record:Michael Jackson,Thriller
+record:Beatles,Yesterday
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Thriller
+record:Michael Jackson,Thriller
+record:Michael Jackson,Thriller
+record:Michael Jackson,Beat It
+record:Michael Jackson,Thriller
+record:Eminem,Without Me
+record:Michael Jackson,Beat It
+record:Taylor Swift,Cruel Summer
+record:Beatles,Yesterday
+record:Beatles,Hey Jude
+record:Taylor Swift,You Belong With Me
+record:Eminem,Stan
+record:Beatles,Yesterday
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Billie Jean
+record:Beatles,Come Together
+record:Eminem,Without Me
+record:Eminem,The Real Slim Shady
+record:Michael Jackson,Smooth Criminal
+record:Taylor Swift,Shake It Off
+record:Beatles,Let It Be
+record:Taylor Swift,You Belong With Me
+record:Taylor Swift,You Belong With Me
+record:Michael Jackson,Smooth Criminal
+record:Eminem,Lose Yourself
+record:Taylor Swift,Love Story
+record:Michael Jackson,Thriller
+record:Beatles,Come Together
+record:Beatles,Let It Be
+top:Taylor Swift
+top:Beatles
+top:Michael Jackson
+top:Eminem
+record:Eminem,Lose Yourself
+record:Michael Jackson,Smooth Criminal
+record:Beatles,Come Together
+record:Michael Jackson,Billie Jean
+record:Taylor Swift,You Belong With Me
+record:Beatles,Come Together
+record:Michael Jackson,Smooth Criminal
+record:Taylor Swift,Love Story
+record:Eminem,Stan
+record:Beatles,Let It Be
+record:Eminem,Stan
+record:Taylor Swift,Cruel Summer
+record:Michael Jackson,Thriller
+record:Beatles,Come Together
+record:Eminem,The Real Slim Shady
+record:Beatles,Come Together
+record:Beatles,Let It Be
+record:Michael Jackson,Smooth Criminal
+record:Beatles,Come Together
+record:Michael Jackson,Smooth Criminal
+record:Beatles,Let It Be
+record:Beatles,Let It Be
+record:Taylor Swift,Shake It Off
+record:Beatles,Come Together
+record:Beatles,Yesterday
+record:Michael Jackson,Thriller
+record:Beatles,Let It Be
+record:Eminem,Without Me
+record:Michael Jackson,Smooth Criminal
+record:Michael Jackson,Smooth Criminal
+record:Eminem,The Real Slim Shady
+record:Eminem,Lose Yourself
+record:Taylor Swift,Love Story
+record:Taylor Swift,Cruel Summer
+record:Beatles,Hey Jude
+record:Michael Jackson,Beat It
+record:Beatles,Hey Jude
+record:Michael Jackson,Smooth Criminal
+record:Beatles,Hey Jude
+record:Eminem,Without Me
+record:Beatles,Hey Jude
+record:Beatles,Let It Be
+record:Eminem,Stan
+record:Taylor Swift,You Belong With Me
+record:Eminem,Stan
+record:Eminem,Lose Yourself
+record:Eminem,Stan
+record:Michael Jackson,Smooth Criminal
+record:Michael Jackson,Smooth Criminal
+record:Michael Jackson,Smooth Criminal
+record:Beatles,Hey Jude
+record:Taylor Swift,Shake It Off
+record:Eminem,Lose Yourself
+record:Eminem,The Real Slim Shady
+record:Taylor Swift,Shake It Off
+record:Beatles,Let It Be
+record:Michael Jackson,Smooth Criminal
+record:Beatles,Come Together
+record:Taylor Swift,Shake It Off
+record:Michael Jackson,Billie Jean
+record:Beatles,Hey Jude
+record:Eminem,Lose Yourself
+record:Taylor Swift,You Belong With Me
+record:Beatles,Let It Be
+record:Beatles,Hey Jude
+record:Eminem,Lose Yourself
+record:Michael Jackson,Thriller
+record:Michael Jackson,Smooth Criminal
+record:Eminem,Stan
+record:Eminem,Lose Yourself
+record:Eminem,Lose Yourself
+record:Michael Jackson,Thriller
+record:Beatles,Yesterday
+record:Eminem,Without Me
+record:Taylor Swift,Cruel Summer
+record:Michael Jackson,Beat It
+record:Beatles,Let It Be
+record:Beatles,Come Together
+record:Eminem,The Real Slim Shady
+record:Taylor Swift,Love Story
+record:Michael Jackson,Billie Jean
+record:Eminem,Lose Yourself
+record:Taylor Swift,You Belong With Me
+record:Taylor Swift,Love Story
+record:Beatles,Yesterday
+record:Beatles,Come Together
+record:Eminem,The Real Slim Shady
+record:Michael Jackson,Thriller
+record:Taylor Swift,Cruel Summer
+record:Michael Jackson,Smooth Criminal
+record:Taylor Swift,Love Story
+record:Eminem,Without Me
+record:Beatles,Come Together
+record:Michael Jackson,Thriller
+record:Taylor Swift,Shake It Off
+record:Eminem,Lose Yourself
+record:Eminem,Without Me
+record:Beatles,Let It Be
+record:Taylor Swift,Shake It Off
+record:Beatles,Come Together
+top:Taylor Swift
+top:Beatles
+top:Michael Jackson
+top:Eminem
