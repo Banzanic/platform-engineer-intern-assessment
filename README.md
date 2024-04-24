@@ -67,8 +67,8 @@ record:The Cure,Lovesong
 
 1. Fork this repository into a public Github repository under your profile.
 2. Write a program that implements the `record` and `top` instructions and can process them from a plain text file as specified. You can use the programming language of your preference. 
-   1. Write your solution in a **single** source code file and commit it to the `src` directory. 
-      1. Your solution file must not include any dependencies outside the standard library.
+   1. Write your solution and commit it to the `src` directory. 
+      1. Your source code must not include any dependencies outside the standard library.
       2. Do not commit compiled files or dependency folders, e.g, `node_modules`.
 3. An `input.txt` file is provided in the repository root directory as the input source for your program. Run your program with this input file. **Do not modify this file** under any circumstances.
 4. The program should save the output to a file called `output.txt` in the directory. **Commit** the `output.txt` file to the repository.
