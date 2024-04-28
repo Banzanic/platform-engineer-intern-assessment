@@ -26,9 +26,9 @@ public class RecordServiceTest {
         recordService.record("Iron Maiden", "Rainmaker");
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(recordService.top("Iron Maiden"), "Rainmaker");
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals("Rainmaker", recordService.top("Iron Maiden"));
     }
 
     @Test
@@ -48,10 +48,10 @@ public class RecordServiceTest {
         recordService.record("Traffic", "Rainmaker");
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(recordService.top("Iron Maiden"), "Rainmaker");
-        Assert.assertEquals(recordService.top("Traffic"), "Rainmaker");
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals("Rainmaker", recordService.top("Iron Maiden"));
+        Assert.assertEquals("Rainmaker", recordService.top("Traffic"));
     }
 
     @Test
@@ -70,9 +70,9 @@ public class RecordServiceTest {
         recordService.record("Iron Maiden", "Out of the silent planet");
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(recordService.top("Iron Maiden"), "Rainmaker");
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals("Rainmaker", recordService.top("Iron Maiden"));
     }
 
     @Test
@@ -90,9 +90,9 @@ public class RecordServiceTest {
         recordService.record("Iron Maiden", "Rainmaker");
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(recordService.top("Iron Maiden"), "Rainmaker");
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals("Rainmaker", recordService.top("Iron Maiden"));
     }
 
     @Test
@@ -101,20 +101,20 @@ public class RecordServiceTest {
         Map<String, String> expectedMostPopularSongMap = new HashMap<>();
         Map<String, Map<String, Integer>> expectedSongLibraryMap = new HashMap<>();
         Map<String, Integer> innerMap = new HashMap<>();
-        expectedMostPopularSongMap.put("Iron Maiden", "Out of the silent planet");
+        expectedMostPopularSongMap.put("Iron Maiden", "Out of the Silent Planet");
         innerMap.put("Rainmaker", 1);
-        innerMap.put("Out of the silent planet", 2);
+        innerMap.put("Out of the Silent Planet", 2);
         expectedSongLibraryMap.put("Iron Maiden", innerMap);
 
         //when
         recordService.record("Iron Maiden", "Rainmaker");
-        recordService.record("Iron Maiden", "Out of the silent planet");
-        recordService.record("Iron Maiden", "Out of the silent planet");
+        recordService.record("Iron Maiden", "Out of the Silent Planet");
+        recordService.record("Iron Maiden", "Out of the Silent Planet");
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(recordService.top("Iron Maiden"), "Out of the silent planet");
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals("Out of the Silent Planet", recordService.top("Iron Maiden"));
     }
 
     @Test
@@ -133,9 +133,9 @@ public class RecordServiceTest {
         recordService.record("Iron Maiden", "Out of the silent planet");
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(recordService.top("Iron Maiden"), "Rainmaker");
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals("Rainmaker", recordService.top("Iron Maiden"));
     }
 
     @Test
@@ -158,9 +158,9 @@ public class RecordServiceTest {
         recordService.read(Files.newBufferedReader(Paths.get(projectRoot + "/src/test/resources/emptyInput.txt")), Files.newBufferedWriter(Paths.get(projectRoot + "/src/test/resources/emptyOutput.txt")));
 
         //then
-        Assert.assertEquals(recordService.getMostPopularSong(), expectedMostPopularSongMap);
-        Assert.assertEquals(recordService.getSongLibrary(), expectedSongLibraryMap);
-        Assert.assertEquals(expectedFile.length(), 0);
+        Assert.assertEquals(expectedMostPopularSongMap, recordService.getMostPopularSong());
+        Assert.assertEquals(expectedSongLibraryMap, recordService.getSongLibrary());
+        Assert.assertEquals(0, expectedFile.length());
     }
 
 }
